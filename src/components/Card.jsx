@@ -1,4 +1,4 @@
-import star from "/assets/star.png";
+import star from "/assets/Star.png";
 export default function Card(props) {
   let badgeText = ""
   if(props.item.openSpots === 0){
